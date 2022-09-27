@@ -1,0 +1,10 @@
+{
+  "title": "Homev",
+  "titleTemplate": "| Bluise",
+  "welcomeText": "# Hay there!\n\n Welcome",
+  "logo": "/images/uploads/logo.svg",
+  "icon": "/images/uploads/logo.png",
+  "loadingColor": "#0b3765",
+  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoMetaImage": ""
+}
